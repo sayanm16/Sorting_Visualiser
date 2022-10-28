@@ -2,7 +2,7 @@
 
 [Download](https://github.com/dipesh-m/Sorting-Visualizer/releases/tag/1.0)
 
-Visualization of different sorting algorithms in C++ with SDL2 Library.
+This projects is basically a Visualization of different sorting algorithms in C++ with SDL2 Library.
 
 A sorting algorithm is an algorithm that puts the elements of a list in a certain order. While there are a large number of sorting algorithms, in practical implementations a few algorithms predominate.
 In this implementation of sorting visualizer, we'll be looking at some of these sorting algorithms and visually comprehend their working.
